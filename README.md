@@ -8,7 +8,6 @@
 wiki/
 ├── README.md        # 主页
 ├── notes/           # 学习笔记
-├── projects/        # 项目记录
 └── resources/       # 参考资料
 ```
 
