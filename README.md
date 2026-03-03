@@ -7,8 +7,7 @@
 ```
 wiki/
 ├── README.md        # 主页
-├── notes/           # 学习笔记
-└── resources/       # 参考资料
+└── notes/           # 学习笔记
 ```
 
 ## 笔记索引
